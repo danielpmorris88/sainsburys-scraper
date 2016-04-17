@@ -25,6 +25,7 @@ Open Command line
 1. Get Product List in Json format:
  
 Execute:
+
 <path to Scraper directory>/get_product_information.php
  
 2. To run test scrips
