@@ -1,4 +1,4 @@
-Sainsbury's Scraper - v1.0
+<h2>Sainsbury's Scraper - v1.0</h2>
 
 What is it?
 -----------
