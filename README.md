@@ -8,11 +8,8 @@ Sainsbury's grocery site. This Scraper applicaton is desgined to output
 this grocery data in JSON format. The data provided will contain:
 
  Title
- 
  Unit Price
- 
  Description
- 
  Size
 
 
@@ -23,16 +20,12 @@ Open Command line
 
 
 1. Get Product List in Json format:
- 
-Execute:
-
- <path to Scraper directory>/get_product_information.php
+ Execute:
+<path to Scraper directory>/get_product_information.php
  
 2. To run test scrips
-
- Execute:
-
- <path to Scraper directory>/tests/run_test_scripts.php
+Execute:
+<path to Scraper directory>/tests/run_test_scripts.php
 	
 
 Installation
